@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>975535028034-6k8e3gd6hd1gcgs2v097srn832rj06cp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.975535028034-6k8e3gd6hd1gcgs2v097srn832rj06cp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBgalZ2L6_MbTFSn2HmNbUIFq8cAspCBaE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>975535028034</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.MatthiasBogarin.EPRS</string>
+	<key>PROJECT_ID</key>
+	<string>eprs-5ec2f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>eprs-5ec2f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:975535028034:ios:ba760e9420cfc147b63adb</string>
+	<key>DATABASE_URL</key>
+	<string>https://eprs-5ec2f.firebaseio.com</string>
+</dict>
+</plist>
